@@ -53,9 +53,9 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 ---
 
 ## Certificates 🏆
-- **[IT & Software Programming Certification]**(https://drive.google.com/file/d/1o-WByFpKOb5cpICNs-DaI6U7hrH6AinJ/view?trk=public_profile_see-credential) (BNSP Indonesia)
+- **[IT & Software Programming Certification](https://drive.google.com/file/d/1o-WByFpKOb5cpICNs-DaI6U7hrH6AinJ/view?trk=public_profile_see-credential)** (BNSP Indonesia)
 - **Intensive Bootcamp: Web Automation Testing using Selenium** (AfterOffice) - Upcoming
-- **[TOEIC (Score: 515)]**(https://drive.google.com/drive/folders/1jVMa_98a4mI-KCIIAlMiUSDOIv18CecQ) (PT. International Test Center)
+- **[TOEIC (Score: 515)](https://drive.google.com/drive/folders/1jVMa_98a4mI-KCIIAlMiUSDOIv18CecQ)** (PT. International Test Center)
 
 ---
 ## Contact Me ☎️

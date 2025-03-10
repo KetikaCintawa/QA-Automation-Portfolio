@@ -29,33 +29,15 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 - **IDEs**: Visual Studio Code
 - **Other Tools**: Chrome DevTools, SelectorsHub
 
-## Tech Skills 💻
-### Testing Methodologies
-- Manual Testing
-- Functional Testing
-- API Testing
-- Automated Testing
-
-### Programming Languages
-- Java (Focused on Automation)
-- Python
-- JavaScript
-- SQL
-- HTML/CSS
-
-### Automation Frameworks
-- Selenium WebDriver
-- TestNG
-- Cucumber (BDD)
-
-### Other Skills
-- Test Case Design
-- Bug Reporting
-- Analytical Thinking
-- Problem-Solving
-
 ---
 
+## Tech Skills 💻
+- **Testing Methodologies**: Manual Testing, Functional Testing, API Testing, Automated Testing
+- **Programming Languages**: Java (Focused on Automation), Python, JavaScript, SQL, HTML/CSS
+- **Automation Frameworks**: Selenium WebDriver, TestNG, Cucumber (BDD), JUnit
+- **Other Skills**: Test Case Design, Bug Reporting, Analytical Thinking, Problem-Solving
+
+---
 
 ## Certificates 🏆
 - **IT & Software Programming Certification** (BNSP Indonesia)

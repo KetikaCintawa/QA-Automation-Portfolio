@@ -27,7 +27,7 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 - **Version Control**: Git, GitHub
 - **Databases**: MySQL
 - **IDEs**: Visual Studio Code
-- **Other Tools**: Chrome DevTools, SelectorsHub
+- **Other Tools**: SelectorsHub
 
 ---
 
@@ -38,13 +38,17 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 - **Other Skills**: Test Case Design, Bug Reporting, Analytical Thinking, Problem-Solving
 
 ---
+## My Projects 📃
+- [Automation Test For E-Commerce Web](https://www.linkedin.com/in/ketika-cintawa/)  
+
+---
 
 ## Certificates 🏆
-- **IT & Software Programming Certification** (BNSP Indonesia)
+- [**IT & Software Programming Certification** (BNSP Indonesia)](https://drive.google.com/file/d/1o-WByFpKOb5cpICNs-DaI6U7hrH6AinJ/view?trk=public_profile_see-credential)
 - **Mini Bootcamp: Web Automation Testing using Selenium** (AfterOffice)
 - **Intensive Bootcamp: Web Automation Testing using Selenium** (AfterOffice)
 - **TOEIC (Score: 515)** (PT. International Test Center)
 
-- 
+  
 
 

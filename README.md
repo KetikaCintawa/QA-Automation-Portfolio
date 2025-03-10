@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hi, I’m Ketika Cintawa Ginanjar Mulia, a detail-oriented, motivated, and eager-to-learn aspiring Quality Assurance Engineer with a foundation in both manual and automated testing techniques. My passion lies in ensuring software quality and delivering seamless user experiences. 
+Hi, I’m Ketika Cintawa Ginanjar Mulia! A detail-oriented and motivated aspiring Quality Assurance Engineer with a solid foundation in both manual and automated testing. I have hands-on experience in improving software systems, including optimizing hospital information systems, which led to a 20% reduction in system errors.
 
-In my previous role, I gained hands-on experience in improving hospital information systems through thorough error analysis and optimization, which led to a 20% reduction in system errors. This experience not only honed my technical skills but also strengthened my problem-solving and analytical abilities.
+I am passionate about ensuring software quality, enhancing user experiences, and continuously learning new technologies. Currently, I am pursuing IT & Software Programming Certifications to stay updated with industry trends and further develop my technical expertise.
 
-I am currently pursuing IT & Software Programming Certifications to stay up-to-date with the latest industry trends and technologies. My goal is to contribute to a dynamic team where I can continue to grow, learn, and make a meaningful impact in the field of Quality Assurance.
+I thrive in collaborative environments and am eager to contribute to a dynamic team where I can grow, innovate, and make a meaningful impact in the field of Quality Assurance.
 
 📫 [LinkedIn Profile](https://www.linkedin.com/in/ketika-cintawa/)  
 📧 [Email](ketikacintawa02@gmail.com)

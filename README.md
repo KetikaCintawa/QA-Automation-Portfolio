@@ -53,7 +53,7 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 ---
 
 ## Certificates 🏆
-- [**IT & Software Programming Certification** (BNSP Indonesia)](https://drive.google.com/file/d/1o-WByFpKOb5cpICNs-DaI6U7hrH6AinJ/view?trk=public_profile_see-credential)
+- **IT & Software Programming Certification** (BNSP Indonesia) [Click Here](https://drive.google.com/file/d/1o-WByFpKOb5cpICNs-DaI6U7hrH6AinJ/view?trk=public_profile_see-credential)
 - **Intensive Bootcamp: Web Automation Testing using Selenium** (AfterOffice) - Upcoming
 - [**TOEIC (Score: 515)** (PT. International Test Center)] (https://drive.google.com/drive/folders/1jVMa_98a4mI-KCIIAlMiUSDOIv18CecQ)
 

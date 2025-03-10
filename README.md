@@ -56,14 +56,12 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 
 ---
 
-## Bootcamp 📓
-- **Mini Bootcamp: Web Automation Testing using Selenium** (AfterOffice)
-- **Intensive Bootcamp: Web Automation Testing using Selenium** (AfterOffice)
 
 ## Certificates 🏆
 - **IT & Software Programming Certification** (BNSP Indonesia)
 - **Mini Bootcamp: Web Automation Testing using Selenium** (AfterOffice)
 - **Intensive Bootcamp: Web Automation Testing using Selenium** (AfterOffice)
+- **TOEIC (Score: 515)** (PT. International Test Center)
 
 - 
 

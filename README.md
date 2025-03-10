@@ -38,16 +38,24 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 - **Other Skills**: Test Case Design, Bug Reporting, Analytical Thinking, Problem-Solving
 
 ---
-## My Projects 📃
-- [Automation Test For E-Commerce Web](https://www.linkedin.com/in/ketika-cintawa/)  
+## My Projects 🚀
+### 1. End-to-End Web Automation with Selenium and TestNG
+- **Description**: Automated testing for a e-commerce web application using Selenium WebDriver and TestNG. The project includes test cases for login, navigation, and form submission.
+- **Technologies Used**: Selenium, TestNG, Java, Maven
+- **GitHub Repository**: [Link to Repository](#)
+- **Screen Recording**: [Watch Demo on YouTube](#)
 
+### 2. API Testing with RestAssured and Cucumber
+- **Description**: End-to-end API testing for a RESTful service using RestAssured and Cucumber. The project includes test scenarios for GET, POST, PUT, and DELETE requests.
+- **Technologies Used**: RestAssured, Cucumber, Java, Maven
+- **GitHub Repository**: [Link to Repository](#)
+  
 ---
 
 ## Certificates 🏆
 - [**IT & Software Programming Certification** (BNSP Indonesia)](https://drive.google.com/file/d/1o-WByFpKOb5cpICNs-DaI6U7hrH6AinJ/view?trk=public_profile_see-credential)
-- **Mini Bootcamp: Web Automation Testing using Selenium** (AfterOffice)
-- **Intensive Bootcamp: Web Automation Testing using Selenium** (AfterOffice)
-- **TOEIC (Score: 515)** (PT. International Test Center)
+- **Intensive Bootcamp: Web Automation Testing using Selenium** (AfterOffice) - Upcoming
+- [**TOEIC (Score: 515)** (PT. International Test Center)] (https://drive.google.com/drive/folders/1jVMa_98a4mI-KCIIAlMiUSDOIv18CecQ)
 
   
 

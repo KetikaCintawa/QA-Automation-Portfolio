@@ -40,7 +40,7 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 ---
 ## My Projects 🚀
 ### 1. End-to-End Web Automation with Selenium and TestNG
-- **Description**: Automated testing for a e-commerce web application using Selenium WebDriver and TestNG. The project includes test cases for login, navigation, and form submission.
+- **Description**: Automated end-to-end testing for the SauceDemo website, covering functionalities like login, product selection, cart management, and checkout. 
 - **Technologies Used**: Selenium, TestNG, Java, Maven
 - **GitHub Repository**: [Link to Repository](#)
 - **Screen Recording**: [Watch Demo on YouTube](#)
@@ -57,6 +57,8 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 - **Intensive Bootcamp: Web Automation Testing using Selenium** (AfterOffice) - Upcoming
 - [**TOEIC (Score: 515)** (PT. International Test Center)] (https://drive.google.com/drive/folders/1jVMa_98a4mI-KCIIAlMiUSDOIv18CecQ)
 
-  
+---
+## Contact Me ☎️
+Feel free to reach out to me via [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ketika-cintawa/)) or [Email](ketikacintawa02@gmail.com). I’m always open to new opportunities and collaborations!
 
 

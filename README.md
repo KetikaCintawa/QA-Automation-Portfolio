@@ -3,7 +3,7 @@
 - [My Experience 🏢](#my-experience-🏢)
 - [Tools 🔧](#tools-🔧)
 - [Tech Skills 💻](#tech-skills-💻)
-- [My Projects �](#my-projects-🚀)
+- [My Projects](#my-projects-🚀)
 - [Certificates 🏆](#certificates-🏆)
 - [Contact Me ☎️](#contact-me-☎️)
 

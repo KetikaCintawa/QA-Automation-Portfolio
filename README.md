@@ -1,11 +1,11 @@
 # Ketika QA Engineering Portfolio 💻
 - [About Me](#about-me-)
-- [My Experience](#my-experience)
-- [Tools](#tools)
-- [Tech Skills](#tech-skills)
-- [My Projects](#my-projects)
-- [Certificates](#certificates)
-- [Contact Me](#contact-me)
+- [My Experience](#my-experience-)
+- [Tools](#tools-)
+- [Tech Skills](#tech-skills-)
+- [My Projects](#my-projects-)
+- [Certificates](#certificates-)
+- [Contact Me](#contact-me-)
   
 ---
 

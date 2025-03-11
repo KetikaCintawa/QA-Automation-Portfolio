@@ -21,12 +21,14 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 ---
 
 ## My Experience 🏢
-### IT Asset Management Intern at Daha Husada Regional General Hospital
+### Software Quality Assurance at Daha Husada Regional General Hospital
 - **Duration**: June 2023 - August 2023
 - **Responsibilities**:
-  - Optimized the Hospital Information System (SIMRS), reducing processing errors by **20%**.
-  - Conducted **functional testing** on hospital management software to identify and document issues.
-  - Provided recommendations for system improvements, increasing efficiency by **15%**.
+  - Led functional and usability testing for the hospital's Laboratory Information System module, ensuring stability after transitioning from a desktop application to Laravel.
+  - Executed module testing using black-box techniques, identifying and documenting system defects that affected data integrity and user experience.
+  - Improved workflow efficiency by 15% by analyzing real-time user interactions and recommending process optimizations based on direct feedback.
+  - Provided technical support and validated system functionality in a live environment, ensuring a seamless experience for doctors and laboratory staff.
+
     
 ---
 

@@ -51,7 +51,7 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 ### End-to-End Web Automation with Selenium and TestNG
 - **Description**: Automated end-to-end testing for the SauceDemo website, covering functionalities like login, product selection, cart management, and checkout. 
 - **Technologies Used**: Selenium, TestNG, Java, Maven
-- **GitHub Repository**: [Link to Repository]([#](https://github.com/KetikaCintawa/Web-Automation))
+- **GitHub Repository**: [Link to Repository](https://github.com/KetikaCintawa/Task-AfterOffice)
 
 ### API Testing with RestAssured and Cucumber
 - **Description**: End-to-end API testing for a RESTful service using RestAssured and Cucumber. The project includes test scenarios for GET, POST, PUT, and DELETE requests.

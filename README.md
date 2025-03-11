@@ -74,6 +74,6 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 
 ---
 ## Contact Me ☎️
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ketika-cintawa/) or [Email](ketikacintawa02@gmail.com). I’m always open to new opportunities and collaborations!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ketika-cintawa/) or [Email](ketikacintawa02@gmail.com). I’m always open to new opportunities and collaborations!
 
 

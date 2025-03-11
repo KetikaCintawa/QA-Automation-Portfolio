@@ -1,11 +1,13 @@
 # Ketika QA Engineering Portfolio 💻
-- [About Me 👩🏻‍💻](#About-Me-👩🏻‍💻)
-- [My Experience 🏢](#my-experience-🏢)
-- [Tools 🔧](#tools-🔧)
-- [Tech Skills 💻](#tech-skills-💻)
-- [My Projects](#my-projects-🚀)
-- [Certificates 🏆](#certificates-🏆)
-- [Contact Me ☎️](#contact-me-☎️)
+- [About Me](#about-me)
+- [My Experience](#my-experience)
+- [Tools](#tools)
+- [Tech Skills](#tech-skills)
+- [My Projects](#my-projects)
+- [Certificates](#certificates)
+- [Contact Me](#contact-me)
+  
+---
 
 ## About Me 👩🏻‍💻
 Hi, I’m Ketika Cintawa Ginanjar Mulia, a detail-oriented and motivated aspiring Quality Assurance Engineer with a solid foundation in both manual and automated testing. I have hands-on experience in improving software systems, including optimizing hospital information systems, which led to a 20% reduction in system errors.

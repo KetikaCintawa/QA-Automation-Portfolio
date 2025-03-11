@@ -5,7 +5,7 @@
 - [Tech Skills](#tech-skills-)
 - [My Projects](#my-projects-)
 - [Certificates](#certificates-)
-- [Contact Me](#contact-me-)
+- [Contact Me](#contact-me-%EF%B8%8F)
   
 ---
 

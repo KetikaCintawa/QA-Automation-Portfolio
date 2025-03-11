@@ -1,4 +1,5 @@
 # Ketika QA Engineering Portfolio 💻
+[About Me](#about-me-👩🏻‍💻) | [My Experience](#my-experience-🏢)  
 
 ## About Me 👩🏻‍💻
 Hi, I’m Ketika Cintawa Ginanjar Mulia, a detail-oriented and motivated aspiring Quality Assurance Engineer with a solid foundation in both manual and automated testing. I have hands-on experience in improving software systems, including optimizing hospital information systems, which led to a 20% reduction in system errors.
@@ -47,8 +48,7 @@ I thrive in collaborative environments and am eager to contribute to a dynamic t
 ### API Testing with RestAssured and Cucumber
 - **Description**: End-to-end API testing for a RESTful service using RestAssured and Cucumber. The project includes test scenarios for GET, POST, PUT, and DELETE requests.
 - **Technologies Used**: RestAssured, Cucumber, Java, Maven
-- **GitHub Repository**: [Link to Repository](https://github.com/KetikaCintawa/API-Rest-Assured)
-[Link to Repository](https://github.com/KetikaCintawa/Task-AfterOffice/tree/cucumber_impl)
+- **GitHub Repository**: [Link to Repository](https://github.com/KetikaCintawa/API-Rest-Assured) | [Link to Repository](https://github.com/KetikaCintawa/Task-AfterOffice/tree/cucumber_impl)
   
 ### Test Framework Design & Code Optimization
 - **Description**: Applied Page Object Model (POM) and design patterns to structure test cases efficiently. Refactored test scripts for better readability and maintainability.
